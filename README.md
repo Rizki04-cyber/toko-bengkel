@@ -1,1 +1,2 @@
 # toko-bengkel
+$ ./TokoBengkel.exe
